@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucio Actualizado",
+      "empresa": "empresa",
+      "email": "lugastellu19@gmail.com",
+      "telefono": "03329402087",
+      "notas": "sdadadsa",
+      "id": 1
+    },
+    {
+      "nombre": "Martin",
+      "empresa": "CCJ",
+      "email": "martin@mai.com",
+      "telefono": "39338290",
+      "notas": "asfsafs",
+      "id": 2
+    }
+  ]
+}
